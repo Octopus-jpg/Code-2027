@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhtc_core.a CMakeFiles/htc_core.dir/src/random.cpp.o CMakeFiles/htc_core.dir/src/graph.cpp.o CMakeFiles/htc_core.dir/src/cascade.cpp.o CMakeFiles/htc_core.dir/src/io.cpp.o CMakeFiles/htc_core.dir/src/rtw.cpp.o CMakeFiles/htc_core.dir/src/im.cpp.o CMakeFiles/htc_core.dir/src/ic.cpp.o CMakeFiles/htc_core.dir/src/baselines.cpp.o CMakeFiles/htc_core.dir/src/estimator.cpp.o CMakeFiles/htc_core.dir/src/synthetic.cpp.o CMakeFiles/htc_core.dir/src/runtime_clock.cpp.o
+/usr/bin/ranlib libhtc_core.a

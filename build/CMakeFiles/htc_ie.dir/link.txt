@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/htc_ie.dir/apps/run_ie.cpp.o -o htc_ie  libhtc_core.a 

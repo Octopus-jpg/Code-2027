@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/compare_opim11.dir/apps/compare_opim11.cpp.o -o compare_opim11  libhtc_core.a 

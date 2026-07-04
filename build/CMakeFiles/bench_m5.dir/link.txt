@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/bench_m5.dir/apps/bench_m5.cpp.o -o bench_m5  libhtc_core.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/sanity_check.dir/apps/sanity_check.cpp.o -o sanity_check  libhtc_core.a 
